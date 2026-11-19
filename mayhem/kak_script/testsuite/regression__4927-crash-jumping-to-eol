@@ -1,0 +1,8 @@
+exec -draft %§ixxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+<esc>§
+add-highlighter global/ column 60 red
+add-highlighter buffer/regions regions
+add-highlighter buffer/regions/ default-region fill green

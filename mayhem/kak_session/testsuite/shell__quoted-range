@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["!printf '%s' \"$kak_quoted_opt_my_ranges\"<ret>"]}

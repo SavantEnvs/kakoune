@@ -1,0 +1,8 @@
+exec -draft %§i    # A new line after a pair of empty comment lines should exit the
+    # block comment.
+    #
+    #
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/python.kak"
+set buffer filetype python

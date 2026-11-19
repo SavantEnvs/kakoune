@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i<lt>html><ret><tab><lt>head><lt>/head><ret><tab><lt>body><ret><tab><tab><lt>div><ret><tab><tab><tab><lt>input name=\"bar\"/><ret><tab><tab><lt>/div><ret><ret><tab><tab><lt>div id=\"foo\" class=\"bar\"><ret><tab><tab><tab>Test 1<ret><tab><tab><lt>/div><ret><ret><tab><tab><lt>div id=\"baz\" class=\"fiz\"><ret><tab><tab><tab>Test 2<ret><tab><tab><lt>/div><ret><tab><lt>/body><ret><lt>/html><ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["jjjJJ<a-x><c-l>d<c-l>"]}

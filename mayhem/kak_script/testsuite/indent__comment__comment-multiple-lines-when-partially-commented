@@ -1,0 +1,11 @@
+exec -draft %§ia:
+    # b: 1
+    c:
+        d: 2
+
+    e: 3
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/yaml.kak"
+source "%val{runtime}/rc/tools/comment.kak"
+set buffer filetype yaml

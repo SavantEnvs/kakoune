@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["itest(bool very_long_variable_name) : very_long_variable_name(%(replace))<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["cvery<c-x><c-w><c-n>()<c-o>"]}

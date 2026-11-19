@@ -1,0 +1,8 @@
+exec -draft %§iIf you're not reporting a bug (e.g. requesting a feature or asking a general question), feel free to remove this template.
+Otherwise, please edit the following sections with the relevant information ().
+<esc>§
+add-highlighter buffer/regions regions
+add-highlighter buffer/regions/inline default-region regions
+
+add-highlighter buffer/ wrap
+add-highlighter buffer/ wrap -indent

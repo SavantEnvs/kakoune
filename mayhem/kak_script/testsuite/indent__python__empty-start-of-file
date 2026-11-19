@@ -1,0 +1,5 @@
+exec -draft %§i#
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/python.kak"
+set buffer filetype python

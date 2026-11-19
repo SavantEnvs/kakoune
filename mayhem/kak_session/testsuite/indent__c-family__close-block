@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["itemplate<lt>typename T> struct A : B<ret>{<ret>    struct C<ret>    {<ret>        void foo() {<ret>            bar()%(;)<ret>    }%(;)<ret><ret>struct D {<ret>    void baz() %({)<ret>    int qux%(;)<ret><ret>if (true) {<ret>    if (true) {<ret>        foo%(;)<ret>    bar%(;)<ret><ret>    foo(bar) {}<ret>{<ret>    baz%(;)<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["a<ret>}<esc>"]}

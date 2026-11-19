@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["idefmodule Module do<ret>    def test do%( )<ret>end<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["c<ret><esc>"]}

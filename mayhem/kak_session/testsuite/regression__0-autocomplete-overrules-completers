@@ -1,0 +1,5 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i<ret><ret><ret><ret><esc>gg"]}
+{ "jsonrpc": "2.0", "method": "keys", "params": [ "i" ] }
+{ "jsonrpc": "2.0", "method": "keys", "params": [ "<esc>ji<c-o><c-n><esc>" ] }
+{ "jsonrpc": "2.0", "method": "keys", "params": [ "ji<c-n><esc>" ] }
+{ "jsonrpc": "2.0", "method": "keys", "params": [ "ji./ui-<c-x>f<c-n>" ] }

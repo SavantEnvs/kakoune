@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i%(word1)%(word2)%(word3)%(word4)<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["cthis was <c-r>\" <esc>"]}

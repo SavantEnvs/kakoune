@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["ifn foo() -> i32 {%( )}<ret><ret>fn foo() -> i32 {%( )<ret>}<ret><ret>fn foo() -> i32 {%( )bar()}<ret><ret>fn foo() -> i32 {%( )bar()<ret>}<ret><ret>fn foo() -> i32 {<ret>    bar()%( )}<ret><ret>    fn foo() -> i32 {<ret>        bar()%( )}<ret><ret>    fn foo() -> i32 {<ret>        bar()?%( )}<ret><ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["c<ret>"]}

@@ -1,0 +1,11 @@
+exec -draft %§iif A then
+        %( )
+
+if A then
+    while B then
+    end
+    %( )
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/lua.kak"
+set buffer filetype lua

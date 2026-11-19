@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["iline 1<ret>line 2<ret>line 3<ret>line 4<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["ey%<a-s>R"]}

@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i    .foo%( )<ret><ret>    .foo()%( )<ret><ret>    + foo%( )<ret><ret>    - foo%( )<ret><ret>    * foo%( )<ret><ret>    / foo%( )<ret><ret>    & foo%( )<ret><ret>    | foo%( )<ret><ret>    ^ foo%( )<ret><ret>    && foo%( )<ret><ret>    || foo%( )<ret><ret>    <lt> foo%( )<ret><ret>    > foo%( )<ret><ret>    #[derive(Debug)]%( )<ret><ret>    fn foo(<ret>    ) -> {%( )<ret><ret>    } else {%( )<ret><ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["c<ret>bar<esc>"]}

@@ -1,0 +1,4 @@
+exec -draft %§i          (
+            cd foobar
+<esc>§
+set-option global indentwidth 2

@@ -1,0 +1,6 @@
+exec -draft %§ilist.foreach ((e) => {%( )
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/c-family.kak"
+source "%val{runtime}/rc/filetype/vala.kak"
+set buffer filetype vala

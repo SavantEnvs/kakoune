@@ -1,0 +1,5 @@
+exec -draft %§i%(a)b%(c)
+<esc>§
+set-register dquote '
+' '
+d'

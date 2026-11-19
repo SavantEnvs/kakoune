@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["<a-O>ifoo<c-u><esc>:edit -fifo /dev/null <c-r>%<ret>u"]}

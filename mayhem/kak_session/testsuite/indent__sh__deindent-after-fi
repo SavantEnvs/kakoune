@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["iif [ $foo ]; then<ret>    thing1<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["gei<ret>fi<ret>"]}

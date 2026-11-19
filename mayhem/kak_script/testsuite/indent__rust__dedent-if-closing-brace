@@ -1,0 +1,19 @@
+exec -draft %§iif true {%( )}
+
+if true {%( )
+}
+
+if true {%( )bar()}
+
+if true {%( )bar()
+}
+
+if true {
+    bar()%( )}
+
+  if true {
+            bar()%( )}
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/rust.kak"
+set buffer filetype rust

@@ -1,0 +1,17 @@
+exec -draft %§i    /// ```
+    /// println!("empty line");
+    ///
+    /// println!("continue line");
+    /// ```
+
+    /**
+     * ```
+     * println!("empty line");
+     *
+     * println!("continue line");
+     * ```
+     */
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/rust.kak"
+set buffer filetype rust

@@ -1,0 +1,5 @@
+exec -draft %§i123456789 wrap
+123456 wrap
+123456 wrap 1234 wrap 123456789012 wrap
+<esc>§
+add-highlighter window/ wrap -word -width 10

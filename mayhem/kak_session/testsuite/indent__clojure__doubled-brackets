@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i((metafn 42)%( )(y 79))<ret>([weird 42]%( )(y 79))<ret>({map 42}%( )(y 79))<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["c<ret><esc>"]}

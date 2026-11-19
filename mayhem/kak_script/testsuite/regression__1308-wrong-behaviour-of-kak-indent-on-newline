@@ -1,0 +1,5 @@
+exec -draft %§i# Comment
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/kakrc.kak"
+set buffer filetype kak

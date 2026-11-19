@@ -1,0 +1,4 @@
+exec -draft %§itest(bool very_long_variable_name) : very_long_variable_name(%(replace))
+<esc>§
+source "%val{runtime}/rc/tools/autowrap.kak"
+autowrap-enable

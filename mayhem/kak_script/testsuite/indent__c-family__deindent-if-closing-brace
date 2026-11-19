@@ -1,0 +1,23 @@
+exec -draft %§iif (1) {%( )}
+
+if (1) {%( )
+}
+
+if (1) {%( )bar()}
+
+if (1) {%( )bar()
+}
+
+if (1) {
+    bar()%( )}
+
+  if (1) {
+         bar()%( )}
+
+        foo(bar) {}
+    {
+        baz%( )}
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/c-family.kak"
+set buffer filetype cpp

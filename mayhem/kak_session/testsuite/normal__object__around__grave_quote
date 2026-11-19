@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["iecho `%(f)oo`<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["<a-a>g"]}

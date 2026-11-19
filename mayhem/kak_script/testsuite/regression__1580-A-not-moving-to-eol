@@ -1,0 +1,4 @@
+exec -draft %§i1234 {
+%(})
+<esc>§
+hook global InsertChar \n %{ exec -draft k<a-gt>; exec <esc>kA; }

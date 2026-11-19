@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i    //!! ```<ret>    //!! foo::bar(\"Hello world\");<ret>    //!! ```<ret><ret>    //// ```<ret>    //// foo::bar(\"Hello world\");<ret>    //// ```<ret><ret>    // ```<ret>    // foo::bar(\"Hello world\");<ret>    // ```<ret><esc>gg"]}

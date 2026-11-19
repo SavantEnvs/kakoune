@@ -1,0 +1,4 @@
+exec -draft %§iblah
+<esc>§
+set global autoreload no
+nop %sh{ echo tchou > $kak_buffile }

@@ -1,0 +1,5 @@
+exec -draft %§ifoo
+rha
+bar
+<esc>§
+set-register a %{grep -E 'foo|bar'}

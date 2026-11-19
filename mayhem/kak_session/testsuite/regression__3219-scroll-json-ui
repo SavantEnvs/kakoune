@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i01<ret>02<ret>03<ret>04<ret>05<ret>06<ret>07<ret>08<ret>09<ret>10<ret>11<ret>12<ret>13<ret>14<ret>15<ret>16<ret>17<ret>18<ret>19<ret>20<ret>21<ret>22<ret>23<ret>24<ret>25<ret>26<ret>27<ret>28<ret>29<ret>30<ret><esc>gg"]}
+{ "jsonrpc": "2.0", "method": "scroll", "params": [ 2, 0, 0] }

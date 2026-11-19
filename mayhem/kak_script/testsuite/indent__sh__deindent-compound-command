@@ -1,0 +1,7 @@
+exec -draft %§ifoo () {
+    thing1
+    }
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/sh.kak"
+set buffer filetype sh

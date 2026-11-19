@@ -1,0 +1,4 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["iecho<ret><esc>gg"]}
+{ "jsonrpc": "2.0", "method": "keys", "params": [ "Oe" ] }
+{ "jsonrpc": "2.0", "method": "keys", "params": [ "<c-n>" ] }
+{ "jsonrpc": "2.0", "method": "keys", "params": [ "<c-r>\"" ] }

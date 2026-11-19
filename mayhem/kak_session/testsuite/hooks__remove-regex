@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["if<esc>:remove-hooks global group[12]<ret>if<esc>"]}

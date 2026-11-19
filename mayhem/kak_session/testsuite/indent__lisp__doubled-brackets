@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i(let ((x 42)%( )(y 79)))<ret>(let [(x 42)%( )(y 79)])<ret>(let ([x 42]%( )[y 79]))<ret>(let ({x 42}%( ){y 79}))<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["c<ret><esc>"]}

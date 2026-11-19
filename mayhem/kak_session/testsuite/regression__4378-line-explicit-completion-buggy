@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["ia b<ret>a%( )<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["a<c-x>l<c-n><esc>"]}

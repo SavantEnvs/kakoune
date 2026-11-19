@@ -1,0 +1,37 @@
+exec -draft %§i    .foo%( )
+
+    .foo()%( )
+
+    + foo%( )
+
+    - foo%( )
+
+    * foo%( )
+
+    / foo%( )
+
+    & foo%( )
+
+    | foo%( )
+
+    ^ foo%( )
+
+    && foo%( )
+
+    || foo%( )
+
+    <lt> foo%( )
+
+    > foo%( )
+
+    #[derive(Debug)]%( )
+
+    fn foo(
+    ) -> {%( )
+
+    } else {%( )
+
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/rust.kak"
+set buffer filetype rust

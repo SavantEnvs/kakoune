@@ -1,0 +1,13 @@
+exec -draft %§iclass foo { 
+    %(p)rivate: 
+        int a; 
+        int b; 
+    public: 
+        foo() {} 
+        void bar() { 
+        } 
+}; 
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/c-family.kak"
+set buffer filetype cpp

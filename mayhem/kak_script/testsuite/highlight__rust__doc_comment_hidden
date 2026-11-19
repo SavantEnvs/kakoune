@@ -1,0 +1,19 @@
+exec -draft %§i    //! ```
+    //! // not hidden #
+    //! #![feature(x)]
+    //! # // hidden #
+    //! # #![feature(x)]
+    //! ```
+
+    /**
+     * ```
+     * // not hidden #
+     * #![feature(x)]
+     * # // hidden #
+     * # #![feature(x)]
+     * ```
+     */
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/rust.kak"
+set buffer filetype rust

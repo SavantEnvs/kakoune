@@ -1,0 +1,4 @@
+exec -draft %§i----------------------------------------------------------------------------		
+<esc>§
+add-highlighter window/ number-lines
+add-highlighter window/ wrap

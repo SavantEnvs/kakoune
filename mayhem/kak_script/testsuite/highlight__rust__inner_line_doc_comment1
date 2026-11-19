@@ -1,0 +1,17 @@
+exec -draft %§i    /// ```shell
+    /// $ cargo install
+    /// ```
+    ///
+    /// ```edition2018,no_run
+    /// # use foo;
+    /// foo::bar("Hello world");
+    /// ```
+    ///
+    /// ```
+    /// # use foo;
+    /// foo::bar("Hello world");
+    /// ```
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/rust.kak"
+set buffer filetype rust

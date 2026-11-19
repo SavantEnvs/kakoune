@@ -1,0 +1,5 @@
+exec -draft %§iline 1
+line 2
+<esc>§
+add-highlighter window/ wrap -word -width 4
+add-highlighter window/ number-lines

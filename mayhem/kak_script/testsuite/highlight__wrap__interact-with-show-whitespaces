@@ -1,0 +1,4 @@
+exec -draft %§ifoo bar
+<esc>§
+add-highlighter window/ wrap -word -width 5
+add-highlighter window/ show-whitespaces

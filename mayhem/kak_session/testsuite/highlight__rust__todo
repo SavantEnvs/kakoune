@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i// TODO: some totally awesome comment<ret>// NOTE: some note<ret>// FIXME: fix some bug<ret><ret>/*<ret> * TODO: some totally awesome comment<ret> * NOTE: some note<ret> * FIXME: fix some bug<ret> */<ret><esc>gg"]}

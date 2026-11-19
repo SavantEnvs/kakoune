@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["ithis is a %(multiple lines) file<ret>with different contents<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["Zgez"]}

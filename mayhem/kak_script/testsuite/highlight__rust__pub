@@ -1,0 +1,21 @@
+exec -draft %§i// bare
+pub
+
+// with scope
+pub(crate)
+pub (crate)
+pub(super)
+pub(self)
+pub(in ::foo)
+pub(in foo)
+pub(in foo::bar)
+pub(in foo::bar::baz)
+
+// not valid pub expression, parens not colored
+pub(crat)
+pub(in)
+spub(crate)
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/rust.kak"
+set buffer filetype rust

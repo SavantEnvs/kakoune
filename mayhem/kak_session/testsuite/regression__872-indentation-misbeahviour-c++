@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["iclass foo { <ret>    %(p)rivate: <ret>        int a; <ret>        int b; <ret>    public: <ret>        foo() {} <ret>        void bar() { <ret>        } <ret>}; <ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["i<ret><esc>"]}

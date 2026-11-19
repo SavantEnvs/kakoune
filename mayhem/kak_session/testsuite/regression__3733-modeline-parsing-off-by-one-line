@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i# kak:tabstop=1:<ret># kak:tabstop=2:<ret># kak:tabstop=3:<ret>foo<ret>foo<ret>foo<ret>foo<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": [":modeline-parse<ret>\n%\n:exec c %opt{tabstop}<ret>"]}

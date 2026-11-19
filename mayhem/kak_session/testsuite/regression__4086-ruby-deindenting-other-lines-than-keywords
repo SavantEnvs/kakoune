@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["iclass MyClass<ret>  def method<ret>%( )<ret><ret>  expression<ret>end<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["c<space><space>end"]}

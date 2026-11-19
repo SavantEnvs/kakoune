@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i1234%(5)67%(8)9012<ret>\u4e00\u4e8c\u4e09\u56db\u4e94\u516d<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["j"]}

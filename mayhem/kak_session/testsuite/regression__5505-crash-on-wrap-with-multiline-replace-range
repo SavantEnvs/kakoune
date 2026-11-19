@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["ishort first line<ret>  let x = compute_a_really_long_value_that_will_exceed_the_wrap_column_width_for_sure(1, 2, 3);<ret><esc>gg"]}
+{ "jsonrpc": "2.0", "method": "resize", "params": [ 40, 80 ] }

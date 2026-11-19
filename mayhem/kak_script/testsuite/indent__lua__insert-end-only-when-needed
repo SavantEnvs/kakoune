@@ -1,0 +1,25 @@
+exec -draft %§ifunction fun1()%( )
+end
+
+function fun2()%( )
+
+function fun3()
+    if true then%( )
+end
+
+function fun4()
+    if true then
+        return 10
+    else%( )
+end
+
+function fun5()
+    if true then%( )
+        return 10
+end
+
+local str = "while"%( )
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/lua.kak"
+set buffer filetype lua

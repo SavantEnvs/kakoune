@@ -1,0 +1,8 @@
+exec -draft %§i
+12345
+67890
+%(12345
+67890)
+<esc>§
+declare-option range-specs test_ranges %val{timestamp} '2.1,3.5|..' '4.2,5.4|..'
+add-highlighter window/ replace-ranges test_ranges

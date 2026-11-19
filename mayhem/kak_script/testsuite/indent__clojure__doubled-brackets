@@ -1,0 +1,7 @@
+exec -draft %§i((metafn 42)%( )(y 79))
+([weird 42]%( )(y 79))
+({map 42}%( )(y 79))
+<esc>§
+source "%val{runtime}/rc/filetype/lisp.kak"
+source "%val{runtime}/rc/filetype/clojure.kak"
+set buffer filetype clojure

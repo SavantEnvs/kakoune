@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": [":echo -to-file commands 'foo bar'<ret>:execute-keys i %file{commands} <lt>esc><ret>"]}

@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["!printf $kak_opt_source_count<ret>l\n<space>s\n!printf $kak_opt_source_count<ret>"]}

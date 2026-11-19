@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["ifoo bar-ba%(z) qux<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["[<a-w>"]}

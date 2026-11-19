@@ -1,0 +1,5 @@
+exec -draft %§ifor (let i = 1; i <lt> 5; ++i) {%(  )}
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/javascript.kak"
+set buffer filetype javascript

@@ -1,0 +1,3 @@
+exec -draft %§ia-word another'one
+<esc>§
+set buffer extra_word_chars '-' "'"

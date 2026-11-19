@@ -1,0 +1,13 @@
+exec -draft %§i// TODO: some totally awesome comment
+// NOTE: some note
+// FIXME: fix some bug
+
+/*
+ * TODO: some totally awesome comment
+ * NOTE: some note
+ * FIXME: fix some bug
+ */
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/rust.kak"
+set buffer filetype rust

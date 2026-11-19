@@ -1,0 +1,22 @@
+exec -draft %§ivoid f(int i,
+       struct S s)
+{
+%( )
+
+void g(int i,
+       struct S s) {
+%( )
+
+struct T {
+    void h(int i,
+           struct S s) const {
+    %( )
+
+    void i(int i,
+           struct S s) const final {
+    %( )
+};
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/c-family.kak"
+set buffer filetype cpp

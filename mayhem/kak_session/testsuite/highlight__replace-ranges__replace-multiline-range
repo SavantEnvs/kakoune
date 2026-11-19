@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i<ret>12345<ret>67890<ret>%(12345<ret>67890)<ret><esc>gg"]}

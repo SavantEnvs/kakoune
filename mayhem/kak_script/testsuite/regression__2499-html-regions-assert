@@ -1,0 +1,20 @@
+exec -draft %§i<lt>html>
+	<lt>head><lt>/head>
+	<lt>body>
+		<lt>div>
+			<lt>input name="bar"/>
+		<lt>/div>
+
+		<lt>div id="foo" class="bar">
+			Test 1
+		<lt>/div>
+
+		<lt>div id="baz" class="fiz">
+			Test 2
+		<lt>/div>
+	<lt>/body>
+<lt>/html>
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/html.kak"
+set buffer filetype html

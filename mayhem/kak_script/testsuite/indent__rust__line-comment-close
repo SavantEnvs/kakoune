@@ -1,0 +1,30 @@
+exec -draft %§i    // foo
+    // %( )
+
+    // foo
+    //%( )
+
+    //! %( )
+
+    //!%( )
+
+    //!! %( )
+
+    //!!%( )
+
+    /// %( )
+
+    ///%( )
+
+    //// %( )
+
+    ////%( )
+
+    println!("hello world"); // %( )
+
+    println!("hello world"); //%( )
+
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/rust.kak"
+set buffer filetype rust

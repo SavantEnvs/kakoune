@@ -1,0 +1,3 @@
+exec -draft %§ifoo
+<esc>§
+map global goto <a-X> l

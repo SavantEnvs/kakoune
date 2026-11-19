@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["iMyObject obj{param1,%( )param2};<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["c<ret><esc>"]}

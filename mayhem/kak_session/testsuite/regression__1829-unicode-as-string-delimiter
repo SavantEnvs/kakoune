@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": [":exec i %\u2022abc\u2022 <lt>esc> <ret>"]}

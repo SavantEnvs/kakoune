@@ -1,0 +1,4 @@
+exec -draft %§iTEST
+<esc>§
+source "%val{runtime}/rc/tools/autorestore.kak"
+autorestore-restore-buffer

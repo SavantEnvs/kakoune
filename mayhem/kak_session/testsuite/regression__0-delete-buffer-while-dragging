@@ -1,0 +1,2 @@
+{ "jsonrpc": "2.0", "method": "mouse_press", "params": [ "left", 0, 0] }
+{ "jsonrpc": "2.0", "method": "keys", "params": [ ":delete-buffer<ret>" ] }

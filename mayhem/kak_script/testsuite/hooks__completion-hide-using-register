@@ -1,0 +1,10 @@
+exec -draft %§iecho
+<esc>§
+set-option global autocomplete insert
+hook global InsertCompletionHide .+ %{
+    evaluate-commands -draft -save-regs '"' %{
+        select %val{hook_param}
+        set-register dquote foo bar
+        execute-keys <a-p>
+    }
+}

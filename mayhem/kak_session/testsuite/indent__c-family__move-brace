@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["inamespace A<ret>%({)<ret>struct B;<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["i<ret><esc>"]}

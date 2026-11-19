@@ -1,0 +1,7 @@
+exec -draft %§ib'\' b'\x00' b'0' b'a' b' ' b'!' b'\n' b'一' b'\u{12}'
+'\x00' '0' 'a' ' ' '!' '\n' '\u{12}' '一'
+'\"' let x = 1;
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/rust.kak"
+set buffer filetype rust

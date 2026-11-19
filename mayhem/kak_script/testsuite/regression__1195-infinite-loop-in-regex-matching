@@ -1,0 +1,5 @@
+exec -draft %Â§i¦¥ô†èg’¤`)»kÈWÂ!lå–ÃöÇõ¿³)É×vÔ	­ŸRáïújWWq/ÍÈé.h3ÑÓşbè îƒ‡–Î¬÷ÚO¢´”ãa‘…=Ş~N´uÃ¹{G”„ÜqØTYF¯Òı¾f#‡èB-—îÿ	Şw]±„<lt>šâº»cª7J‚ë¿Ù»ÄGËÇïsĞÁ¢ĞÃäåjImÅÂçĞtÄ7±q2j3ã= Uİè*S9§ô1ıÀ;Ê=ÄM¤²MJœ^îr>e·…UØt„¨Uâç,ÿqßÇsòwUàÆyÑ3µÍŠ–]ŞA”3·ƒiå·ÏÙ’.ûâ„nDD€‘$ˆ:ş‚›r›8Çfé¾ˆb;‡›‹zö¿ã…â«öÈfìÎJ
+<esc>Â§
+add-highlighter window/sh regions
+add-highlighter window/sh/code default-region group
+add-highlighter window/sh/heredoc region -match-capture '<<-?(\w+)' '^\t*(\w+)$' group

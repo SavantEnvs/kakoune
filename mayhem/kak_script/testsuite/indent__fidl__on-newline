@@ -1,0 +1,15 @@
+exec -draft %§i    foo%( )
+
+    @foo(%( )
+
+    foo {%( )
+
+    @foo(%( )) {
+
+    @foo(%( )"bar") {
+
+    foo {%( )};
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/fidl.kak"
+set buffer filetype fidl

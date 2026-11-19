@@ -1,0 +1,5 @@
+exec -draft %§i
+x1
+x2
+<esc>§
+set-option global incsearch false

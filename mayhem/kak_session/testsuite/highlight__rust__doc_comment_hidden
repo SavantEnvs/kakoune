@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i    //! ```<ret>    //! // not hidden #<ret>    //! #![feature(x)]<ret>    //! # // hidden #<ret>    //! # #![feature(x)]<ret>    //! ```<ret><ret>    /**<ret>     * ```<ret>     * // not hidden #<ret>     * #![feature(x)]<ret>     * # // hidden #<ret>     * # #![feature(x)]<ret>     * ```<ret>     */<ret><esc>gg"]}

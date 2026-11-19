@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i// make sure the color does not break<ret>/// ```<ret>/// # use foo;<ret>/// foo::bar(\"Hello world\");<ret>/// ```<ret>fn bar(s: &str) {<ret>    println!(\"{}\", s);<ret>}<ret><esc>gg"]}

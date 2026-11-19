@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["ifor (let i = 1; i <lt> 5; ++i) {%(  )}<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["c<ret><esc>Oif (true) {}<esc>hi<ret><esc>Oconsole.log();<esc>hhi<ret><esc>O{},<ret>{},<esc>hh<a-C>i<ret><esc>1,Ofoo: { bar: 1 },<esc>jjobaz: { bam: 2 },<esc>"]}

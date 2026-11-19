@@ -1,0 +1,12 @@
+exec -draft %§i// make sure the color does not break
+/// ```
+/// # use foo;
+/// foo::bar("Hello world");
+/// ```
+fn bar(s: &str) {
+    println!("{}", s);
+}
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/rust.kak"
+set buffer filetype rust

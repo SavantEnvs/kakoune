@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["iarray.map { item in%( )<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["c<ret>return item * 2<esc>"]}

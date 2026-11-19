@@ -1,0 +1,63 @@
+exec -draft %§i    fn foo<lt>T>(x: T)
+    where
+        T: Debug
+        %( )
+
+    pub async fn foo<lt>T>(x: T)
+    where
+        T: Debug
+        %( )
+
+    pub(in std::fmt) const unsafe extern "C" fn foo<lt>T>(x: T)
+    where
+        T: Debug
+        %( )
+
+    fn foo<lt>T>(x: T) where T: Debug %( )
+
+    impl<lt>T> X for T
+    where
+        T: Debug
+        %( )
+
+    impl<lt>T> X for T where T: Debug %( )
+
+    struct X<lt>T>
+    where
+        T: Debug
+        %( )
+
+    pub(crate) struct X<lt>T>
+    where
+        T: Debug
+        %( )
+
+    struct X<lt>T> where T: Debug %( )
+
+    enum X<lt>T>
+    where
+        T: Debug
+        %( )
+
+    enum X<lt>T> where T: Debug %( )
+
+    union X<lt>T>
+    where
+        T: Debug
+        %( )
+
+    union X<lt>T> where T: Debug %( )
+
+    if foo()
+        && bar()
+        %( )
+
+    for x in group
+        .iter()
+        .sorted_by(|a, b| Ord::cmp(&a.0, &b.0))
+        %( )
+
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/rust.kak"
+set buffer filetype rust

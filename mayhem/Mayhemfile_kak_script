@@ -1,0 +1,9 @@
+project: savantenvs/kakoune
+target: kak_script
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/kak_script/testsuite
+cmds:
+  - cmd: /mayhem/kak_script
+    libfuzzer: true
+    timeout: 10

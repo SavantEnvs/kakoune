@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["ib'\\' b'\\x00' b'0' b'a' b' ' b'!' b'\\n' b'\u4e00' b'\\u{12}'<ret>'\\x00' '0' 'a' ' ' '!' '\\n' '\\u{12}' '\u4e00'<ret>'\\\"' let x = 1;<ret><esc>gg"]}

@@ -1,0 +1,3 @@
+exec -draft %§ifoo_%(b)ar
+<esc>§
+set-option global extra_word_chars

@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["iif A then<ret>        %( )<ret><ret>if A then<ret>    while B then<ret>    end<ret>    %( )<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["cend<esc>"]}

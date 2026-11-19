@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["iadd(a, %(b)) {<ret>    return a and b<ret>}<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["m"]}

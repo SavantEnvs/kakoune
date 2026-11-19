@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i# kak: tabstop=2;set-option<tab>buffer<tab>pwned<tab>yes<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": [":modeline-parse<ret>\n%\n:exec c %opt{pwned}<ret>"]}

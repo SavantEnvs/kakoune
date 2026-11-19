@@ -1,0 +1,1 @@
+{ "jsonrpc": "2.0", "method": "keys", "params": [ ":append baz<ret>:append bar<ret>:append foo<ret>:append b<c-p><ret>" ] }

@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["ifoo %(baz<ret>bar<ret>qux) quux<ret><ret>foo %(baz<ret>bar<ret>qux<ret>)<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["|sort<ret>"]}

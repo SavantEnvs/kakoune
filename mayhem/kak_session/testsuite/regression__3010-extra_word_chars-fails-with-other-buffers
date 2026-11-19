@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["iwo<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": [":e other<ret>iword\u2591<esc><ret><c-o>A<c-x>W<c-n>"]}

@@ -1,0 +1,7 @@
+exec -draft %§i(let ((x 42)%( )(y 79)))
+(let [(x 42)%( )(y 79)])
+(let ([x 42]%( )[y 79]))
+(let ({x 42}%( ){y 79}))
+<esc>§
+source "%val{runtime}/rc/filetype/lisp.kak"
+set buffer filetype lisp

@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["ilet foo = \"bar\";<ret>let mut foo = \"bar\";<ret>let (foo, bar) = (\"baz\", \"quux\");<ret>let (mut foo, mut bar) = (\"baz\", \"quux\");<ret><esc>gg"]}

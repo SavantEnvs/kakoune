@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["iline %(1)<ret>%(l)ine 2<ret>line 3<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": [":exec -itersel jj<ret>"]}

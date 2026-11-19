@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": [":update-completions<ret>\ni<c-n>a<ret><esc>\n:update-completions<ret>\ni<c-n><c-p>b<esc>"]}

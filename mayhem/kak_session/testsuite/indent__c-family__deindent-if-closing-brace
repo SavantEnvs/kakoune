@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["iif (1) {%( )}<ret><ret>if (1) {%( )<ret>}<ret><ret>if (1) {%( )bar()}<ret><ret>if (1) {%( )bar()<ret>}<ret><ret>if (1) {<ret>    bar()%( )}<ret><ret>  if (1) {<ret>         bar()%( )}<ret><ret>        foo(bar) {}<ret>    {<ret>        baz%( )}<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["c<ret>"]}

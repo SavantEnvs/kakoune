@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i<tab><tab><tab><tab>if (%(v)alid)<ret><tab><tab><tab><tab>%(x)<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["&"]}

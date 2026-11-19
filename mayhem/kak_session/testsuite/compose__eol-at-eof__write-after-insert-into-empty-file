@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["iinsertion makes the buffer non-empty, so we add an EOL at EOF"]}

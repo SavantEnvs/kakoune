@@ -1,0 +1,38 @@
+exec -draft %§i{%( )}
+
+{%( )
+}
+
+{%( )bar()}
+
+{%( )bar()
+}
+
+{
+    bar()%( )}
+
+      {
+   bar()%( )}
+
+{(%( ))}
+
+{(%( )
+)}
+
+{(%( )foo())}
+
+{(%( )foo()
+)}
+
+{(
+    bar()%( ))}
+
+{(
+    bar()?%( ))}
+
+   {(
+                        bar()%( ))}
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/rust.kak"
+set buffer filetype rust

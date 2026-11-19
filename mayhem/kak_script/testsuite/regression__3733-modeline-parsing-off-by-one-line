@@ -1,0 +1,10 @@
+exec -draft %§i# kak:tabstop=1:
+# kak:tabstop=2:
+# kak:tabstop=3:
+foo
+foo
+foo
+foo
+<esc>§
+source "%val{runtime}/rc/detection/modeline.kak"
+set-option global modelines 1

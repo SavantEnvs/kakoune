@@ -1,0 +1,2 @@
+{ "jsonrpc": "2.0", "method": "keys", "params": [ ":foo<ret>b" ] }
+{ "jsonrpc": "2.0", "method": "keys", "params": [ "<tab><ret>" ] }

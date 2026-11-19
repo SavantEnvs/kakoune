@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["idef foo() do%( )<ret><ret>def bar() do<ret>end<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["c<ret><esc>"]}

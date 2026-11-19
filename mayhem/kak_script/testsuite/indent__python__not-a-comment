@@ -1,0 +1,8 @@
+exec -draft %§i# If we're not in a comment at all, make sure we do the right thing.
+# (two empty lines follow)
+
+
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/python.kak"
+set buffer filetype python

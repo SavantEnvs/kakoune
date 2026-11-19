@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i# A new line after a pair of empty comment lines should exit the<ret># block comment.<ret>#<ret>#<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["gjA<ret>"]}

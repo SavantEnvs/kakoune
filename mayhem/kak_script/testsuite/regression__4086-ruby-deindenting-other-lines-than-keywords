@@ -1,0 +1,10 @@
+exec -draft %§iclass MyClass
+  def method
+%( )
+
+  expression
+end
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/ruby.kak"
+set buffer filetype ruby

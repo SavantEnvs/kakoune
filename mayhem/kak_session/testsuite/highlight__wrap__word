@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i123456789 wrap<ret>123456 wrap<ret>123456 wrap 1234 wrap 123456789012 wrap<ret><esc>gg"]}

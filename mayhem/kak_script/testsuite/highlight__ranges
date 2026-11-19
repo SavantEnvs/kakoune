@@ -1,0 +1,8 @@
+exec -draft %§ifoo
+bar
+baz
+%( )
+<esc>§
+declare-option range-specs r
+add-highlighter window/ ranges r
+set window r %val{timestamp} 1.1+0|default,red 2.1,2.1|default,red 3.1+2|default,red

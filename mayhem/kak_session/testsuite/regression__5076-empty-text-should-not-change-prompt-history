@@ -1,0 +1,4 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["iabab<ret><esc>gg"]}
+{ "jsonrpc": "2.0", "method": "keys", "params": [ "xsa<ret>" ] }
+{ "jsonrpc": "2.0", "method": "keys", "params": [ "xs<ret>" ] }
+{ "jsonrpc": "2.0", "method": "keys", "params": [ "xs<ret>" ] }

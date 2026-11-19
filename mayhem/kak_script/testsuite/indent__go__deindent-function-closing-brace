@@ -1,0 +1,19 @@
+exec -draft %§ifunc foo(x int) int {%( )}
+
+func foo(x int) int {%( )
+}
+
+func foo(x int) int {%( )bar()}
+
+func foo(x int) int {%( )bar()
+}
+
+func foo(x int) int {
+    bar()%( )}
+
+  func foo(x int) int {
+          bar()%( )}
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/go.kak"
+set buffer filetype go

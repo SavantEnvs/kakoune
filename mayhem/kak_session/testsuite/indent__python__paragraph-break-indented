@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i    # A new line after a single empty comment line should leave the comment in<ret>    # place as a possible paragraph separator.<ret>    #<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["gjA<ret>"]}

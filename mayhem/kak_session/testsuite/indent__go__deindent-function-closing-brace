@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["ifunc foo(x int) int {%( )}<ret><ret>func foo(x int) int {%( )<ret>}<ret><ret>func foo(x int) int {%( )bar()}<ret><ret>func foo(x int) int {%( )bar()<ret>}<ret><ret>func foo(x int) int {<ret>    bar()%( )}<ret><ret>  func foo(x int) int {<ret>          bar()%( )}<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["c<ret>"]}

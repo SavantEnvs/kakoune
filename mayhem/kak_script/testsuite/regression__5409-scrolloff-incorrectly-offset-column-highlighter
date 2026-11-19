@@ -1,0 +1,4 @@
+exec -draft %§i12%(3)456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+<esc>§
+add-highlighter global/ column 71 "default,white"
+set-option global scrolloff 4,4

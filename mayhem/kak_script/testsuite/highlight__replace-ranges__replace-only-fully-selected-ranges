@@ -1,0 +1,6 @@
+exec -draft %§i%(12345)
+1%(234)5
+1%(2)345
+<esc>§
+declare-option range-specs test_ranges %val{timestamp} '1.2,1.4|{blue}replaced{green} text' '2.2,2.4|{blue}replaced{green} text' '3.2,3.4|{red}not {blue}replaced{green} text'
+add-highlighter window/ replace-ranges test_ranges

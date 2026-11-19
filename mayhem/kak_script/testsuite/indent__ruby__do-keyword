@@ -1,0 +1,5 @@
+exec -draft %§itest do%( )
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/ruby.kak"
+set buffer filetype ruby

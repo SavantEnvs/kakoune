@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i<ret>What is L%(o)rem Ipsum?<ret><ret>What is Lorem %(I)psum?<ret><ret>What is Lorem Ipsum%(?)<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["<a-i>c^,m<ret>"]}

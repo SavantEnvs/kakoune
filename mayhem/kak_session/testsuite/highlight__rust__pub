@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i// bare<ret>pub<ret><ret>// with scope<ret>pub(crate)<ret>pub (crate)<ret>pub(super)<ret>pub(self)<ret>pub(in ::foo)<ret>pub(in foo)<ret>pub(in foo::bar)<ret>pub(in foo::bar::baz)<ret><ret>// not valid pub expression, parens not colored<ret>pub(crat)<ret>pub(in)<ret>spub(crate)<ret><esc>gg"]}

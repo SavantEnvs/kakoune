@@ -1,0 +1,23 @@
+exec -draft %§ifn foo() -> i32 {%( )}
+
+fn foo() -> i32 {%( )
+}
+
+fn foo() -> i32 {%( )bar()}
+
+fn foo() -> i32 {%( )bar()
+}
+
+fn foo() -> i32 {
+    bar()%( )}
+
+    fn foo() -> i32 {
+        bar()%( )}
+
+    fn foo() -> i32 {
+        bar()?%( )}
+
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/rust.kak"
+set buffer filetype rust

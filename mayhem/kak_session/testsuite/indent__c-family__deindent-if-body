@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["iif (int i = bar())<ret>    foo();%( )<ret><ret>if (bar(a, b,<ret>        c, d))<ret>    foo(); // comment%( )<ret><ret>if (bar(a, b,<ret>        c, d)) // comment<ret>    foo();%( )<ret><ret>else<ret>    bar();%( )<ret><ret>else // comment<ret>    bar();%( )<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["c<ret>baz<esc>"]}

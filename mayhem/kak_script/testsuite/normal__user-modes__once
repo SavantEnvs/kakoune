@@ -1,0 +1,5 @@
+exec -draft %§ibar
+<esc>§
+declare-user-mode foo
+map global foo f 'wchello from foo<esc>'
+map global normal <a-,> ':enter-user-mode foo<ret>'

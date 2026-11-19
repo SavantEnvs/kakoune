@@ -1,0 +1,7 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i123<ret><esc>gg"]}
+{ "jsonrpc": "2.0", "method": "keys", "params": [ "i" ] }
+{ "jsonrpc": "2.0", "method": "keys", "params": [ "a" ] }
+{ "jsonrpc": "2.0", "method": "mouse_press", "params": [ "left", 0, 2] }
+{ "jsonrpc": "2.0", "method": "keys", "params": [ "b" ] }
+{ "jsonrpc": "2.0", "method": "mouse_release", "params": [ "left", 0, 4] }
+{ "jsonrpc": "2.0", "method": "keys", "params": [ "c<esc>" ] }

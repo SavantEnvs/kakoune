@@ -1,0 +1,5 @@
+exec -draft %§i1
+2
+3
+<esc>§
+hook global WinDisplay .*/out %{exec j}

@@ -1,0 +1,9 @@
+exec -draft %§i    Foo {bar,%( )
+
+    foo(bar,%( )
+
+    vec![bar,%( )
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/rust.kak"
+set buffer filetype rust

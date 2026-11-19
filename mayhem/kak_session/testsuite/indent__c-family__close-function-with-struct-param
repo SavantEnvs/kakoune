@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["ivoid f(int i,<ret>       struct S s)<ret>{<ret>%( )<ret><ret>void g(int i,<ret>       struct S s) {<ret>%( )<ret><ret>struct T {<ret>    void h(int i,<ret>           struct S s) const {<ret>    %( )<ret><ret>    void i(int i,<ret>           struct S s) const final {<ret>    %( )<ret>};<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["c<ret>}<esc>"]}

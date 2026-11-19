@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["ifn main() {<ret>    let my_str = String::from(\"abc\");<ret>}<ret><esc>gg"]}

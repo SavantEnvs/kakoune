@@ -1,0 +1,11 @@
+exec -draft %§iif [ $foo ]; then
+    if [ $bar ]; then
+        foobar
+    else
+        qux
+    fi
+fi
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/sh.kak"
+set buffer filetype sh

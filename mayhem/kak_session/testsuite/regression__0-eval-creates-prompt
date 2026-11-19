@@ -1,0 +1,2 @@
+{ "jsonrpc": "2.0", "method": "keys", "params": [ ":eval %{ exec %{:echo -} }<ret>" ] }
+{ "jsonrpc": "2.0", "method": "keys", "params": [ "markup 123<ret>" ] }

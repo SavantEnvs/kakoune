@@ -1,0 +1,5 @@
+exec -draft %§i123delete
+<esc>§
+declare-user-mode foo
+map global foo f d
+map global normal <a-,> ':enter-user-mode -lock foo<ret>'

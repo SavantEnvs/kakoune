@@ -1,0 +1,9 @@
+project: savantenvs/kakoune
+target: kak_regex
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/kak_regex/testsuite
+cmds:
+  - cmd: /mayhem/kak_regex
+    libfuzzer: true
+    timeout: 10

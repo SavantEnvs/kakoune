@@ -1,0 +1,20 @@
+exec -draft %§i    foo();%( )
+
+    foo(
+        bar().baz(),%( )
+
+    foo(
+        bar()
+            .baz(),%( )
+
+    foo()
+        .bar()
+        .baz();%( )
+
+    let t = "a
+    wah";%( )
+
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/rust.kak"
+set buffer filetype rust

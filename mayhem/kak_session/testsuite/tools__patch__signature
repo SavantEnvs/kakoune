@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["idiff -ur a/file1 b/file1<ret>--- a/file1<ret>+++ b/file1<ret>@@ -1,3 +1,3 @@<ret> context<ret>-file1 here<ret>+modified file1 here<ret> context<ret>-- <ret>2.43.0<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["%:patch tee applied.diff<ret><ret>!echo Applied:; cat applied.diff; echo; echo Updated buffer:<ret>"]}

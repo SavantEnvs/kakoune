@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i# a:<ret>#     b: 1<ret>#     c: 2<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["%:comment-line<ret>"]}

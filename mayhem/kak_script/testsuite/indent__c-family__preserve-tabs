@@ -1,0 +1,6 @@
+exec -draft %§i	if (foo &&%( )
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/c-family.kak"
+set buffer indentwidth 0
+set buffer filetype cpp

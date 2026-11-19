@@ -1,0 +1,3 @@
+exec -draft %§i[ab
+<esc>§
+add-highlighter global/ wrap -word -width 2

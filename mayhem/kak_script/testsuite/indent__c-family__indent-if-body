@@ -1,0 +1,15 @@
+exec -draft %§iif (int i = bar())%( )
+
+if (bar(a, b,
+        c, d))%( )
+
+if (bar(a, b,
+        c, d)) // comment%( )
+
+else%( )
+
+else // comment%( )
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/c-family.kak"
+set buffer filetype cpp

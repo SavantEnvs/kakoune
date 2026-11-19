@@ -1,0 +1,11 @@
+exec -draft %§iif(c == '(') {%( )
+
+if(c == '(') {}%( )
+
+if(s == "(") {%( )
+
+if(s == "(" "foo") {%( )
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/c-family.kak"
+set buffer filetype cpp

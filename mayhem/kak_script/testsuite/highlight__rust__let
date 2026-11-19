@@ -1,0 +1,8 @@
+exec -draft %§ilet foo = "bar";
+let mut foo = "bar";
+let (foo, bar) = ("baz", "quux");
+let (mut foo, mut bar) = ("baz", "quux");
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/rust.kak"
+set buffer filetype rust

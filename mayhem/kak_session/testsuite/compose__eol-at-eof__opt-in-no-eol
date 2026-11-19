@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["iEOL at EOF will be added<esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": [":set buffer finaleol present<ret>"]}

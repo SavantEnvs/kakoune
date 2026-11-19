@@ -1,0 +1,8 @@
+exec -draft %§ivoid f () {
+    foreach (var i in list)%( )
+}
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/c-family.kak"
+source "%val{runtime}/rc/filetype/vala.kak"
+set buffer filetype vala

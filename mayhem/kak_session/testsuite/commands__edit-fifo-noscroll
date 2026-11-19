@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": [":nop %sh{mkfifo fifo}; edit -fifo fifo *fifo*<ret>"]}
+{ "jsonrpc": "2.0", "method": "keys", "params": [ "gjxH|wc -c | tr -d \" \"<ret>" ] }

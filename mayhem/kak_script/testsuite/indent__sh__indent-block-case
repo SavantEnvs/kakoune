@@ -1,0 +1,7 @@
+exec -draft %§icase $foo in
+    bar) thing1;;
+    baz)
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/sh.kak"
+set buffer filetype sh

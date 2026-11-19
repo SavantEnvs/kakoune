@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i> block %(q)uote<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["i<ret><esc>"]}

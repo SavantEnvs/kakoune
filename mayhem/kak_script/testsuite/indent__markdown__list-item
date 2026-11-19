@@ -1,0 +1,6 @@
+exec -draft %§i%(*) list
+  - item
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/markdown.kak"
+set buffer filetype markdown

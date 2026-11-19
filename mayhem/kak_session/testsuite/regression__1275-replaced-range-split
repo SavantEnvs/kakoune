@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": [":addhl window/ show-whitespaces<ret>i<space><esc>:addhl window/ column 1 red<ret>A<backspace><esc>"]}

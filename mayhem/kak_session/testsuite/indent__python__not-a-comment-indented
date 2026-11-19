@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i    # If we're not in a comment at all, make sure we do the right thing.<ret>    # (one empty line and a 4-space prefixed line follows)<ret><ret>    <ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["gjA<ret>"]}

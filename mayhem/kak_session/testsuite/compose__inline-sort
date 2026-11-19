@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["i(e d c b a)<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["<a-i>bs<space><ret>c<ret><esc><a-i>b|sort<ret><a-j>"]}

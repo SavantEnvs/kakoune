@@ -1,0 +1,2 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["ifunction fun1()%( )<ret>end<ret><ret>function fun2()%( )<ret><ret>function fun3()<ret>    if true then%( )<ret>end<ret><ret>function fun4()<ret>    if true then<ret>        return 10<ret>    else%( )<ret>end<ret><ret>function fun5()<ret>    if true then%( )<ret>        return 10<ret>end<ret><ret>local str = \"while\"%( )<ret><esc>gg"]}
+{"jsonrpc": "2.0", "method": "keys", "params": ["c<ret>foo()<esc>"]}

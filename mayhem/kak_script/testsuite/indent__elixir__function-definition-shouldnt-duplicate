@@ -1,0 +1,7 @@
+exec -draft %§idefmodule Module do
+    def test do%( )
+end
+<esc>§
+source "%val{runtime}/colors/default.kak"
+source "%val{runtime}/rc/filetype/elixir.kak"
+set buffer filetype elixir

@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "keys", "params": ["ifoo bar<ret><esc>gg"]}
